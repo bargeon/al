@@ -1,4 +1,4 @@
-# Types of conversion
+# Types conversion
 
 # String conversion
 number_forty = str(40)
